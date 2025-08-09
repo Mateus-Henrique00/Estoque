@@ -43,8 +43,6 @@ public class Main {
         System.out.println(produto);
 
 
-
-
         sc.close();
     }
 }
